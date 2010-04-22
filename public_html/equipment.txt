@@ -1,0 +1,17 @@
+HTML			sql::name		sql::type
+---------------------	---------------------	---------
+WEAPONS
+primary weapon		weapon1			weapon
+secundary weapon	weapon2			""
+
+MISC
+medical			<< idem			<< idem
+trade			<< idem			<< idem
+communication		<< idem			<< idem
+
+ARMOUR
+Shoes			cloathing_feet		feet
+Pants			cloathing_legs		legs
+Torso			cloathing_torso		torso
+Gloves			cloathing_hands		hands
+Headwear		cloathing_head		head

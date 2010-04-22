@@ -1,0 +1,39 @@
+<?php
+
+include("../inc.config.php");
+
+		$menu = Array(
+			"general" => Array(
+				Array("Overview",			"./"),
+				Array("Finances",			"personalfinance.php"),
+				Array("Equipment",			"equipment.php"),
+				Array("Backpack",			"backpack.php"),
+				Array("Relations",			"relations.php"),
+				Array("Communication",		"communicate.php"),
+				Array("Gang Info",			"gang.php") ),
+			"locations" => Array(
+				Array("community center",	"communitycenter.php"),
+				Array("personal hideout",	"personalhideout.php"),
+				Array("metro station",		"citymap.php"),
+				Array("bus stop",			"thismap.php") ),
+			"current position" => Array(
+				Array("merchandise",		"merchandise.php"),
+				Array("look around",		"merchandise.php?lookaround=1") ) );
+
+
+	/** PRINT MENU **/
+	echo '<ul id="usermenu">'.EOL;
+	foreach ( $menu AS $title => $regels )
+	{
+		$hid = strtolower(str_replace(" ","",$title));
+		echo '	<li>'.$title.'</li>'.EOL;
+		echo '	<ul>'.EOL;
+		foreach ( $regels AS $regel )
+		{
+			echo '		<li><a href="'.$regel[1].'">'.$regel[0].'</a></li>'.EOL;
+		}
+		echo '	</ul>'.EOL;
+	}
+	echo '</ul>'.EOL;
+	
+	?>

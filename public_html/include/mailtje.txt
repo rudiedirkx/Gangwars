@@ -1,0 +1,28 @@
+<link rel=stylesheet href='http://www.vibage.com/beta/css/style.php'>
+
+Je gebruikersnaam:<br>
+<b>[username]</b><br>
+<br>
+Je wachtwoord:<br>
+<b>[password]</b><br>
+<br>
+Je activatiecode:<br>
+<b>[code]</b><br>
+<br>
+<br>
+Als je naar deze url gaat, wordt je account automatisch geactiveerd.<br>
+Doe dit wel zo snel mogelijk. Na 48 uur wordt de code veranderd.<br>
+<a href="[url]">[url]</a><br>
+<br>
+<br>
+
+Veel plezier met GangWars<br>
+Als je nog vragen hebt, bekijk de FAQ eens.<br>
+Als je er met de FAQ en de About niet uitkomt, vraag het op het forum op stuur mij een mailtje:<br>
+<a href="mailto:rdx@vibage.com">rdx@vibage.com</a><br>
+<br>
+<br>
+<br>
+Ciao<br>
+<br>
+r

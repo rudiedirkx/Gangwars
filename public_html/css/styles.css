@@ -1,0 +1,53 @@
+* {
+	margin			: 0;
+	padding			: 0;
+}
+
+
+
+BODY,TABLE
+{
+	font-family:Verdana;font-size:11px;color:#ffffff;cursor:default;
+}
+INPUT,SELECT,TEXTAREA
+{
+	font-family:Verdana;font-size:11px;width:100%;color:navy;
+}
+A
+{
+	text-decoration:none;color:#CC0000;
+}
+A:hover
+{
+	color:#888888;
+}
+A.information
+{
+	color:#ee8800;text-decoration:none;
+}
+A:hover.information
+{
+	color:#888888;text-decoration:none;
+}
+.tdr
+{
+	border-right:solid 1px #ffffff;
+}
+.tdb
+{
+	border-bottom:solid 1px #ffffff;
+}
+.tdbo
+{
+	border-top:solid 1px #ffffff;
+}
+.td
+{
+	border-left:solid 1px #ffffff;border-top:solid 1px #ffffff;
+}
+.over
+{
+	background:navy;color:#ffffff;cursor:pointer;
+}
+
+

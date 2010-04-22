@@ -1,0 +1,176 @@
+De regels waarnaar je leeft in het spel:
+
+
+
+Algemeen
+
+ - Dit spel kan ALLEEN worden gespeeld bij een resolutie van minstens 1024*768
+
+ - Het is legaal om tot 1 account per persoon te bezitten. Elk IP en elke PC 1 account.
+
+ - Elke account wordt geregistreerd. Valsspelers worden eruit gehaald en verbannen.
+   (niet alleen je account, maar heel de computer en IP adres)
+
+ - Als je niet uitlogt en meer dan 60 minuten nonactief bent wordt je account bevroren.
+   (Neem contact op met de administrator om dit te herzien!)
+
+ - Alles, maar dan ook alles, wat er gebeurt in dit spel, wordt geregistreerd in de LOG files van het spel.
+
+ - Elke gebruiker heeft zijn eigen logboek.
+   Elk bondgenootschap heeft zijn eigen logboek.
+
+ - Zowel een individuele gebruiker als een bondgenootschap in totaal heeft een werkmap.
+   Hierin kan geschreven worden door elk lid van het genootschap (of de gebruiker zelf).
+   Alleen de baas kan passages verwijderen.
+
+
+
+
+Geld en producten
+
+ - Je kan verkopen wat je hebt en kopen wat je kan betalen!
+
+ - Verkopen op eenzelfde plaats als waar je gekocht hebt kost je minstens 10% van de koopwaarde
+   (je krijgt er dus maximaal 90% van terug).
+
+ - Verkopen aan een andere speler (als je deze een tegen zou komen) kan bij elke prijs.
+
+ - De meer producten je hebt (elk product heeft een volume en een massa) de langzamer je beweegt in een potentieel gevecht!
+
+ - Elk karakter kan producten kopen en verkopen om deze te doneren aan zijn medespeler
+   (als je als hacker veel ged hebt kun je wapens kopen voor de hitman en drugs voor de junkie in je alliantie).
+
+
+
+
+Bondgenootschappen en allianties
+
+ - Bij een officieel, vastgesteld, bondgenootschap (een groep bestaande uit 1 persoon van elk type) wordt er een territorium aangesteld voor deze groep mensen.
+
+ - Elk territoium, in bezit van een compleet bondgenootschap, heeft een buurthuis, een telefooncel, een apotheker en nog meer van dit soort faciliteiten.
+
+ - Alleen in het buurthuis van je eigen territorium ben je redelijk veilig en kan je ongestoord en volledig communiceren met de leden uit je bondgenootschap.
+
+ - Er zijn een aantal (5 - 20) publieke buurthuizen. Iedereen is hier welkom, welk stadsdeel of territorium ook de jouwe is!
+   Hier kan je aanvallen plannen (publiek, dus niet slim), allianties maken, bondgenootschappen creëren, bondgenootschappen uitdagen, leden van de jouwe 'vervangen'.
+
+ - Het is het goed recht van de baas van een bondgenootschap, als deze nog minstens 1 stem heeft gekregen, een lid uit het beondgenootschap te zetten of te de-activeren.
+   Als er een lid uit wordt gezet, heeft het bondgenootschap 24 uur om hiervoor een nieuw lid te vinden. Na deze 24 uur zonder vervanger wordt het genootschap uitgezet door de authoriteiten.
+   Als een lid op null wordt gezet, heeft de baas van het genootschap 48 om dit te herzien of een nieuw lid te vinden. In deze 48 uur kan het lid vrijwillig vertrekken. Activiteiten buiten het genootschap kunnen niet worden gematigd of gestopt.
+
+ - Een disabled lid kan door het genootschap vermoord worden. Een volwaardig lid niet!
+
+ - De baas van een bondgenootschap wordt gekozen door de leden zelf. Elk lid heeft 1 stem, de Man heeft er 2. Bij 4/5 stemmen is er een baas!
+
+ - Ruzie of verraad wordt over het algemeen niet getolereerd door het genootschap zelf. Zonder baas kan iemand eruit gezet worden dmv 4 stemmen.
+
+ - Allianties zijn niet geregistreerd en niet officieel vastgesteld. Nergens in algemene speldata worden allianties vastgelegd. Alleen in het geheugen en misschien in genootschap documenten kan dit worden bewaard.
+
+ - Als een genootschap uit elkaar gaat als deze 40 punten heeft, hebben ze 24 uur de tijd om deze opnieuw te registreren. Een genootschap gaat niet uit elkaar als er iemand wordt uitgegooid of vermoord.
+   Verloren punten in een genootschap kunnen nooit meer worden hersteld. Pas dus op!
+
+
+
+
+Het spelverloop over het algemeen
+
+ - Er is nooit sprake van individuele score.
+
+ - Alles wat een outsider doet, doet deze voor zichzelf.
+
+ - Elk genootschap heeft een bepaalde score. Niet lid van een genootschap, geen kans op een podiumplaats.
+
+ - Nogmaals: Allianties zijn niet geregirstreerd en zullen dus officieel de kans op winnen niet laten toenemen.
+
+ - Elk karakter heeft zijn specialiteit. Bij het goed uitvoeren van een der acties worden punten verdiend.
+
+ - Alle verdienden punten worden toegeschreven aan je bondgenootschap.
+   Geen lid van een genootschap en toch iemand vermoord: Geen punten, geen lof; dit wordt nergens geregistreerd.
+
+ - Extra (essentiële) punten kunnen worden behaald door het uitvoeren van een groepsactiviteit.
+   Een voorbeeld hiervan: Het plannen van een moord (op individu, glid of genootschap) leveren extra punten op. Het daadwerkelijk uitvoeren nog meer! Als elke speler of efficiente wijze is gebruikt is er ruimte voor een bonus.
+
+ - Elke individu haalt een score die wordt toegeschreven aan het genootschap. Deze score hangt af van de actie, maar ook van het karakter.
+   Voorbeeld: de hitman kan makkelijker grote scores halen als een junkie. Maar een junkie haalt meer kleinere scores. Een ongeveer gelijk aantal punten dus.
+
+
+
+
+De karakters onderling
+
+ - Een gebruiker kan nooit sterven. Als een persoon zo is toegetakeld dat deze niet meer door kan vechten, wordt het gevecht gewonnen en heeft de verliezer nog 1 healthpunt.
+   De verliezer wordt uit het genootschap gegooid. Het genootschap heeft na deze actie (baas treed automatisch af) 48 uur om of een ander lid te zoeken of hetzelfde lid weer op te nemen.
+
+ - Elk gewonnen gevecht levert je minstens 1 punt op.
+
+ - Verloren healthpunten kunnen worden hersteld door medicijnen.
+   Hoe groter de dosis medicijnen (dus hoe meer je health hebt verloren), hoe kleiner ge agility wordt. Voor [aantal %]/10 uur.
+   Voorbeeld: Ik raak 70% health kwijt, maar win. Ik krijg minstens 1 punt maar mijn agility is voor 7 uur minder dan normaal.
+
+ - Elk verloren gevecht levert -1 punt op voor het genootschap en minder doorzettingsvermogen voor de verliezende persoon.
+
+ - De winnende kant kan alles nemen van de verliezende. Elk persoon heeft een maximaal gewicht en volume wat ie bij zich kan houden.
+   Alles wat op de grond wordt gegooid, gaat niet verloren. Je kan dus ter plekke wisselen van wapens en andere shit.
+
+
+
+
+Territoria, buurthuizen, winkels, etc
+
+ - Elk genootschap heeft zijn eigen territorium.
+
+ - Dit is al dan niet bekend voor iedereen die zich daar bevindt (per ongeluk of expres).
+   Het kan worden aangegeven met een kleur, plaatje of tekst.
+
+ - Aan elk buurthuis, in gebruik, is duidelijk te zien dat deze eigendom is van de eigenaar (door tekst en plaatje/kleur).
+
+ - De buurthuizen, niet in gebruik, zijn publiekelijk toegankelijk voor al dan niet leden van een genootschap.
+   Voorbeeld: Als je plannen hebt om weg te gaan uit genootschap X kan je in een publiek huis alvast je intrek afspreken.
+
+ - De informatie die een karakter officieel (in zijn automatisch gemaakt logboek) bezit, wordt verwijderd na het verlaten van een genootschap.
+   Coordinaten en leden kunnen natuurlijk onthouden worden door de persoon. Daar kan ik niets aan doen!
+
+ - Er kan niet gestolen worden van een winkel.
+
+ - Een winkel, in bezit van de overheid, is allrisk verzekerd. Elke poging tot stelen van goederen van een overheidsinstantie wordt zwaar bestraft.
+
+ - Een Man kan ervoor kiezen zijn eigen 'zaak' te openen. Alleen leden uit het genootschap zullen dit officieel weten.
+   Hoe hij aan de producten komt die er verkocht worden, is niet mijn zaak!
+
+
+
+
+Bezit, inkomen en activiteiten in die zin
+
+ - Er bestaat in dit spel niet zoiets als een vast inokmen.
+
+ - Elk karakter moet zelf voor geld zorgen.
+
+ - Geld kan alleen worden uutgewisseld als de ontvangende en gevende partij in hetzelfde coordinaat zijn.
+
+ - Elke speler heeft wel een eigen balans. Er is geen rekening voor een genootschap.
+
+ - De Man kan een extra 'rekening' openen voor genootschapgeld. Dit kost wel een vaststaand bedrag per maand.
+   Natuurlijk kan ook de junkie al het genootschapgeld vasthouden. Je kan er ook voor kiezen geen gezamelijke rekening te hebben.
+
+ - Als de hacker aan geld is gekomen bestaat de kans dat dit ontdekt wordt. Als 24 uur na de 'coup' een bedrag wordt uitgegeven minstens 60% van het gestolen geld komt de 
+
+
+
+
+
+
+Feitjes
+
+ - Lopen gaat langzamer (meer ticks nodig) als je veel percentage van je gewicht/ruimte hebt
+ - In de chatbox kan ALLES gezegd worden
+ - Bij bellen wordt de belchat ververst ook als er niet op is genomen. De ontvanger ziet pas dat deze gebeld wordt in de Overview! Als beiden in de belchat zijn kunnen ze praten, een vantevoren bepaalde tijd.
+ - Er wordt by default gevochten met wapen1, als de ammo op is, gaat het auto over naar wapen2
+ - Als je health een bepaald niveau bereikt (tussen 5 en 20%) wordt er automatisch de medical genomen. Dan is je medical leeg!
+ - Je kan oneindig veel van dezelfde items bijhebben, zolang gewicht en volume niet worden overschreden. Men kan maar x verschillende items dragen.
+ - Je kan op elk moment items droppen. De locatie wordt dan xx.xx
+ - Je weet niet hoe een wijjk heet, tot je er bent geweest (wijkenoverzicht heeft al dan niet een alt='WIJKNAAM')
+ - Snelheid van METRO hangt af van willekeurigheid tussen min en max
+ - Lopen (ipv) METRO is zekerheid van snelheid
+ - Snelheid van lopen zit tussen max en min snelheid van METRO (iets meer naar de max kant)
+ - Vechten gaat net zoals bij DopeWars. Geen autorefresh. Beiden spelers kunnen op Fight of Flee drukken. Wapens wisselen kan, maar is niet aan te raden.

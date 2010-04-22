@@ -1,0 +1,5 @@
+<?=realpath("./")?>
+
+<br>
+
+<?phpinfo()?>

@@ -1,0 +1,98 @@
+Junkie
+========
+special:
+Energie kopen (als drugs) voor minder agility.
+
+Heeft heel veel LIFE, hij leeft op drugs. Dit moet hij wel onderhouden.
+
+Hij handelt in drugs (beetje in wapens, met andere players) voor extra geld.
+
+
+
+
+Hitman
+========
+special:
+Moordt mensen voor extra geld.
+
+Heel bedreven in de Mashal Arts (grote agility).
+
+Kan worden ingehuurd door de Business Man voor extra geld (kan ook oplichten).
+
+
+
+
+Hacker
+========
+special:
+Breekt in bij grote bedrijven voor extra geld.
+
+Wordt sneller opgepakt als hacker (boete), maar kan dit ook tegen andere mensen gebruiken.
+
+Informatie 'opvragen' kan hij gratis, de rest moet hiervoor betalen.
+
+
+
+
+Business Man
+==============
+special:
+Kan 'undercover' mensen dure spullen verkopen die niets waard zijn (extra geld + slechte reputatie).
+
+Heeft een vast inkomen dat hij kan verbeteren (de beurs?)
+
+Kan de SWAT en de Hitman gebruiken voor zijn doeleinden.
+
+Hij kan altijd en overal berichten ontvangen en sturen (laptop en gsm).
+
+
+Arms dealer
+==============
+special:
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+
+
+
+=========================================================
+=========================================================
+
+Het perfecte bondgenootschap is een persoon van elk karakter:
+Hacker voor informatie,
+businessman voor geld,
+hitman voor het moorden,
+junkie voor medicijnen en als hulpje van de hitman,
+SWAT voor legaliteit en voor extra equipment.
+
+
+
+
+buurthuizen en karakterplaatsen:
+De enige plaats waar men berichten kan sturen en lezen.
+Buurthuizen zijn voor clans, meetings enzo.
+
+Karakterplaatsen:
+De junkie heeft een verlaten, donkere, maar droge en warme steeg (altijd wat zakgeld).
+De businessman heeft een kantoor met extra communicatiemiddelen.
+SWAT officers hebben hun politiebureau met extra wapens.
+De hacker heeft een internetcafe, hier kan hij altijd nieuwe spullen kopen.
+De hitman heeft zijn stamkroeg, om zijn health weer op te halen.
+
+
+
+
+Startequipment:
+Junkie:		Begint op zijn fiets + 20 g Weed + 15 g Cocaïne + 5 spuiten + 100 dollar.
+Businessman:	Laptop (lvl 1) + gsm (lvl 1) + 500 dollar cash + 2000 dollar stock + auto met chauffeur.
+Hacker:		Begint in zijn FLATWONING + Laptop (lvl 2) + internet + 100 dollar.
+SWAT:		Granades (3) + handgun (5 mags) + mp5ed (5 mags) + armor (100%) + 50 dollar.
+Hitman:		3x handgun (10 mags) + 2x mp5ed (10 mags) + M16 (5 mags) + 2000 dollar cash
+
+
+
+Elk bondgenootschap kan een eigen kamer/steeg/etc krijgen als deze compleet is!
+Hier kun je communiceren, healen, etc. Dingen plannen, er zal een chatroom komen oid
