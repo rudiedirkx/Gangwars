@@ -1,6 +1,6 @@
-<?
+<?php
 
-include("config.php");
+require("inc.config.php");
 
 Check_Login();
 
@@ -29,7 +29,7 @@ if ( isset($_GET['action']) && $_GET['action'] == "move" && $thissector['merchan
 }
 
 $title="Metro Station";
-include("header.php");
+require("inc.header.php");
 
 
 ?>
@@ -74,8 +74,8 @@ while ($mi = mysql_fetch_array($m))
 </table>
 
 
-<?
+<?php
 
-include("footer.php");
+require("inc.footer.php");
 
 

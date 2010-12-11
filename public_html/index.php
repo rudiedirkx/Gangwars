@@ -1,9 +1,9 @@
 <?php
 
-include_once("inc.config.php");
+require("inc.config.php");
 
 $title = "Index";
-include_once("inc.header.php");
+require("inc.header.php");
 
 ?>
 
@@ -14,6 +14,6 @@ include_once("inc.header.php");
 
 <?php
 
-include_once("inc.footer.php");
+require("inc.footer.php");
 
 ?>

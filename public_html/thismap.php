@@ -1,6 +1,6 @@
-<?
+<?php
 
-include("config.php");
+require("inc.config.php");
 
 Check_Login();
 if ( !$THISUSER['accepted'] )
@@ -58,7 +58,7 @@ if ( isset($_GET['action']) && $_GET['action'] == "move" )
 
 
 $title="Bus Station";
-include("header.php");
+require("inc.header.php");
 
 ?>
 
@@ -116,6 +116,6 @@ Je kan lopen of met de bus. Dat moet je eerst kiezen! Default is met de bus. Met
 
 <?
 
-include("footer.php");
+require("inc.footer.php");
 
 

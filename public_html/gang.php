@@ -1,13 +1,13 @@
-<?
+<?php
 
-include("config.php");
+require("inc.config.php");
 
 Check_Login();
 
 
 
 $title="Gang";
-include("header.php");
+require("inc.header.php");
 
 ?>
 
@@ -17,8 +17,8 @@ include("header.php");
 
 
 
-<?
+<?php
 
-include("footer.php");
+require("inc.footer.php");
 
 

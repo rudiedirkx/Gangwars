@@ -1,6 +1,6 @@
 <?php
 
-include_once("inc.config.php");
+require("inc.config.php");
 
 Check_Login();
 
@@ -27,7 +27,7 @@ if ( isset($_POST['equip_new']) )
 }
 
 $title="Equipment";
-include_once("inc.header.php");
+require("inc.header.php");
 
 $l = "u".$UID;
 
@@ -104,6 +104,6 @@ $l = "u".$UID;
 
 <?php
 
-include_once("inc.footer.php");
+require("inc.footer.php");
 
 ?>

@@ -1,12 +1,12 @@
-<?
+<?php
 
-include("config.php");
+require("inc.config.php");
 
 Check_Login();
 
 
 $title="Finances";
-include("header.php");
+require("inc.header.php");
 
 ?>
 
@@ -21,6 +21,6 @@ include("header.php");
 
 <?
 
-include("footer.php");
+require("inc.footer.php");
 
 

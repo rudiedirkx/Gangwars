@@ -1,11 +1,11 @@
 <?php
 
-include_once("inc.config.php");
+require("inc.config.php");
 
 Check_Login();
 
 $title="Rugzak";
-include_once("inc.header.php");
+require("inc.header.php");
 
 ?>
 
@@ -84,6 +84,6 @@ if ( !empty($_GET['explain']) )
 }
 
 
-include_once("inc.footer.php");
+require("inc.footer.php");
 
 ?>

@@ -1,5 +1,8 @@
 <?php
 
+require(dirname(__FILE__).'/../inc.config.php');
+return;
+
 /*
 	I started coding this game right before November 19th, 2003
 */
